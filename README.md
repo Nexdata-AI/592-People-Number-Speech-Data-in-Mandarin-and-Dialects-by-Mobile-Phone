@@ -1,8 +1,10 @@
 # 592-People-Number-Speech-Data-in-Mandarin-and-Dialects-by-Mobile-Phone
-https://www.datatang.ai/datasets/250
+
 
 ## Description
 Digital dialect Mandarin audio data captured by mobile phone, with the duration of 66 hours; 592 people participated in the recording, with balanced gender distribution; the languages include Sichuan dialect, Cantonese, and Mandarin; content covers daily life scenes; matching with mainstream Android, Apple system mobile phones; this data set can be used for automatic speech recognition.
+
+For more details, please refer to the link: https://bit.ly/3Sfdcjl
 
 ## Format
 16kHz, 16bit, mono channel, uncompressed wav; text; metadata
@@ -30,3 +32,6 @@ text
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
