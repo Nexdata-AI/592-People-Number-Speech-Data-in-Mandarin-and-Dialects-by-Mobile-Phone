@@ -4,7 +4,7 @@
 ## Description
 Digital dialect Mandarin audio data captured by mobile phone, with the duration of 66 hours; 592 people participated in the recording, with balanced gender distribution; the languages include Sichuan dialect, Cantonese, and Mandarin; content covers daily life scenes; matching with mainstream Android, Apple system mobile phones; this data set can be used for automatic speech recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/250?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/250?source=Github
 
 
 ## Format
